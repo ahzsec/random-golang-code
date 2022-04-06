@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/ahzsec/random-web-code/blob/main/LICENSE.md">
+    <a href="https://github.com/ahzsec/random-golang-code/blob/main/LICENSE.md">
         <img src="https://img.shields.io/badge/License-MIT-42c0dd" alt="License badge" width="75">
     </a>
   </p>
